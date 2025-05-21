@@ -1,3 +1,15 @@
-venv
-__pycache__
-TWO_CENTURIES_OF_UM_RACES.csv
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large data files
+Project Folder/TWO_CENTURIES_OF_UM_RACES.csv
+*.csv
+
+# IDE settings
+.idea/
+.vscode/
